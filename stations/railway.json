@@ -1,0 +1,15 @@
+{
+  "id": 26,
+  "railway_category_id": 1,
+  "before_challenge_id": 25,
+  "job_id": 4,
+  "title": "React.js 基礎4 SSRをやってみよう",
+  "sub_title": "サブタイトル",
+  "completed_image_url": "https://techbowl.s3-ap-northeast-1.amazonaws.com/techbowl/react.png_10.png",
+  "icon_url": "https://i.gyazo.com/afb91faae817c6f95ccac35d825e542d.png",
+  "description": "React.js 基礎4 SSRをやってみよう",
+  "order": 70,
+  "template_repository_url": "https://github.com/TechBowl-japan/html-stations",
+  "is_study_plan_sheet_supported": false,
+  "is_creating": false
+}
