@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "defaultRemote": "staging",
+  "remotes": {
+    "production": "https://app.techbowl.co.jp/api",
+    "staging": "https://app-staging.techbowl.co.jp/api"
+  },
+  "resolve": {
+    "~": "./stations"
+  },
+  "stations": ["./stations/**/*.md"],
+  "dev": {
+    "port": 3000
+  }
+}

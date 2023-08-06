@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "railway-updater": "./.bin/railway-updater"
+  }
+}
