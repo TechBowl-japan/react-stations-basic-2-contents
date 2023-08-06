@@ -11,5 +11,11 @@
   "stations": ["./stations/**/*.md"],
   "dev": {
     "port": 3000
+  },
+  "sync": {
+    "defaultStationDir": "./stations"
+  },
+  "hooks": {
+    "postSync": "pnpm prettier --write stations/**/*.md"
   }
 }
