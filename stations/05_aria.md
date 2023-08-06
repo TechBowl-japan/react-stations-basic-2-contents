@@ -1,5 +1,6 @@
 ---
 id: 164
+order: 5
 title: リストの切り替えをキーボード操作でできるようにしよう
 confirmation_method: meeting
 design_contents: https://www.figma.com/file/agx0kBamVoQOFCSu3wstht/TODO_app?node-id=0%3A1

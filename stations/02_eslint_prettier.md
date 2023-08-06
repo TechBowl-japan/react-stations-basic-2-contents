@@ -1,5 +1,6 @@
 ---
 id: 161
+order: 2
 title: ESLint, Prettierを導入しよう
 confirmation_method: meeting
 design_contents: https://www.figma.com/file/agx0kBamVoQOFCSu3wstht/TODO_app?node-id=0%3A1

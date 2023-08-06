@@ -1,5 +1,6 @@
 ---
 id: 165
+order: 6
 title: レスポンシブに対応させよう
 confirmation_method: meeting
 design_contents: https://www.figma.com/file/agx0kBamVoQOFCSu3wstht/TODO_app?node-id=0%3A1

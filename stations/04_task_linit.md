@@ -1,5 +1,6 @@
 ---
 id: 163
+order: 4
 title: タスクに期限を設定できるようにしよう
 confirmation_method: meeting
 design_contents: https://www.figma.com/file/agx0kBamVoQOFCSu3wstht/TODO_app?node-id=0%3A1
