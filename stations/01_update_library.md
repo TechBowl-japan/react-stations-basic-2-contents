@@ -9,7 +9,7 @@ abilities:
   - 80
 clear_conditions:
   - id: 292
-    contents: React, React-router(予定)のバージョンが上がっている
+    contents: Reactおよびreact-routerのバージョンが上がっている
 ---
 
 # 問題文
@@ -19,7 +19,7 @@ clear_conditions:
 このテンプレートリポジトリは React などのライブラリが古いバージョンになっています。ですのでライブラリのバージョンアップを行いましょう。バージョンアップすることでプログラムの記述法が変わったりして動かない部分がでてくると思いますので修正しましょう。
 
 - リポジトリ URL: https://github.com/TechBowl-japan/railway-todo-app
-- API の Base URL: qvg1o8w2ef.execute-api.ap-northeast-1.amazonaws.com
+- API の Base URL: https://qvg1o8w2ef.execute-api.ap-northeast-1.amazonaws.com
 - API ドキュメント URL: https://app.swaggerhub.com/apis-docs/INFO_3/TODOApplication/1.0.0
 
 ## やること
