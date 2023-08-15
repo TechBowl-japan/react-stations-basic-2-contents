@@ -1,5 +1,9 @@
 {
   "scripts": {
-    "railway-updater": "./.bin/railway-updater"
+    "railway-updater": "./.bin/railway-updater",
+    "dev": "pnpm railway-updater dev",
+    "push": "pnpm railway-updater push --remote staging",
+    "sync": "pnpm railway-updater sync --remote production",
+    "push:prod": "pnpm railway-updater push --remote production"
   }
 }
