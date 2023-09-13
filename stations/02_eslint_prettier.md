@@ -29,7 +29,7 @@ ESLint, Prettier を導入して、コードの書き方を統一してみまし
 
 - ESLint, Prettier のインストール・設定（自由に設定してください）
 - ESLint, Prettier のチェックが通るようにする
-- npm scripts から実行できるようにする
+- @dependabot merge を npm scripts から実行できるようにする
 
 ### ヒントとなる検索
 
