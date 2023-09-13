@@ -9,8 +9,8 @@ abilities:
   - 80
 clear_conditions:
   # NOTE: バックエンドにはない
-  # - id: 0
-  #   contents: TODO アプリが正常に動作している
+  - id: -1
+    contents: TODO アプリが正常に動作している
   - id: 292
     contents: React.js および React Routerのバージョンが最新になっている
 ---
