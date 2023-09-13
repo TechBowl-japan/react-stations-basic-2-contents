@@ -1,27 +1,9 @@
 {
-  "name": "html-stations-contents",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "type": "module",
   "scripts": {
-    "push": "node ./scripts/index.js",
-    "fix": "run-s fix:{prettier,eslint}",
-    "fix:eslint": "eslint --fix ./src",
-    "fix:prettier": "prettier --write ./src"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "axios": "^1.3.4",
-    "eslint-config-prettier": "^8.8.0",
-    "fs": "0.0.1-security",
-    "js-yaml": "^4.1.0",
-    "npm-run-all": "^4.1.5",
-    "prettier": "^2.8.7"
-  },
-  "devDependencies": {
-    "eslint": "^8.36.0"
+    "railway-updater": "./.bin/railway-updater",
+    "dev": "pnpm railway-updater dev",
+    "push": "pnpm railway-updater push --remote staging",
+    "sync": "pnpm railway-updater sync --remote production",
+    "push:prod": "pnpm railway-updater push --remote production"
   }
 }
