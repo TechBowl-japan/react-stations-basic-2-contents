@@ -29,10 +29,10 @@ React では他にも様々なスタイリングの適用方法があること�
 
 ### やること
 
-- CSS-in-JS または CSS Modules を導入する
-- 既存の CSS を上記のいずれかに書き換える
+1. CSS-in-JS または CSS Modules を導入する
+2. 既存の CSS を上記のいずれかに書き換える
 
 ### ヒントとなる検索
 
 「CSS-in-JS」
-「emotion」
+「CSS Modules」
